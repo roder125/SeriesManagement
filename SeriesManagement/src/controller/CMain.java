@@ -13,7 +13,7 @@ import view.VRegister;
 public class CMain {
 
 	/**
-	 * @param args test test
+	 * @param args 
 	 * 
 	 */
 	public static void main(String[] args) {
