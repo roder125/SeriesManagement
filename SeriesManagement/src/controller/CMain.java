@@ -22,6 +22,7 @@ public class CMain {
 		VLogin viewLogin = new VLogin();
 		VRegister viewRegister = new VRegister();
 
+		System.out.println(" Git Hub Test");
 	}
 
 }
