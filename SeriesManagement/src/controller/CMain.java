@@ -13,7 +13,7 @@ import view.VRegister;
 public class CMain {
 
 	/**
-	 * @param args Ian stinkt
+	 * @param args Ian stinkt wirklich
 	 * 
 	 */
 	public static void main(String[] args) {
